@@ -1,6 +1,6 @@
-package Samira;
+package Benny;
 
-public class Samira {
+public class Benny {
 
     public static void main (String [] arg){
 
