@@ -1,8 +1,8 @@
 package Cornel;
 import java.util.Scanner;
-public class Task_10 {
 
-    public class MyClass {
+
+    public class Task_10 {
         public static void main(String args[]) {
 
             int num1;
@@ -12,5 +12,5 @@ public class Task_10 {
             System.out.println("number*10 is=" + num1*10);
 
         }
-    }
+
 }
