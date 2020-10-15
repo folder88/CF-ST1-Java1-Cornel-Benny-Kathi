@@ -12,6 +12,12 @@ public class VersionTwo {
 
         double average = total / one.length;
 
-        System.out.println("The average value of " + one[0] + ", " + one[1] + ", " + one[2] + ", " + one[3] + ", " + one[4] +" is: " + average);
+        double[] loopToPrint = {12, 95, 3, 10, 45.7};
+        String resultPrint = "";
+        for(int x = 0; x < loopToPrint.length; x++){
+            resultPrint += Double.toString(loopToPrint[x]) + ", ";
+        }
+
+        System.out.println("The average value of " + resultPrint + " is: " + average);
     }
 }
