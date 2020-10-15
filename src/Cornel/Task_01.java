@@ -4,12 +4,12 @@ public class Task_01 {
     public static void main (String [] arg){
 
 
-        int x = 4;
-        String name = "folder";
-        boolean y = true;
 
-        System.out.println(x);
-        System.out.println(name);
-        System.out.println(y);
+
+        System.out.println(-5+8*6);
+        System.out.println(55%9);
+        System.out.println(20+(-3*5/8));
+        System.out.println(5 + 15/3*2 -8%3);
+
     }
 }
